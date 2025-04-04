@@ -1,0 +1,27 @@
+.container{
+    padding: 20px;
+}
+.team-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px; 
+}
+
+.team-member {
+    text-align: center;
+    flex: 1 1 45%; 
+    max-width: 45%; 
+}
+
+.team-member:nth-child(n+3) {
+    flex: 1 1 30%; 
+    max-width: 30%;
+}
+
+.team-member img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}

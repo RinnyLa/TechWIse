@@ -1,0 +1,87 @@
+h2{
+    padding: 20px;
+    text-align: center;
+}
+
+.Testimonials{
+    padding: 20px;
+}
+.banner {
+    padding: 40px;
+    background-color: white;
+    color: black;
+}
+
+.banner img {
+    display: block;
+    width: 100%;
+    max-width: 1200px; 
+    height: 300px; 
+    object-fit: cover; 
+    border-radius: 10px; 
+    margin: 20px auto; 
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #0056b3;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.courses-preview {
+    text-align: center; 
+    margin: 20px auto;
+}
+
+.courses-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px; 
+}
+
+.courses-container {
+    display: flex;
+    justify-content: center; 
+    flex-wrap: wrap; 
+    gap: 20px;
+    max-width: 1200px; 
+    margin: 0 auto; 
+}
+
+.course-card {
+    width: 250px;
+    height: auto;
+    background-color: white;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    flex: 1 1 250px;
+    max-width: 250px;
+}
+
+
+.course-card img {
+    width: 80px; 
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.course-card h3 {
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+.course-card p {
+    flex-grow: 1; 
+    font-size: 14px;
+}
