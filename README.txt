@@ -1,18 +1,24 @@
-My first website created using HTML and CSS
+✨ TechWise — Online IT Learning Platform
 
-Purpose and Objectives:
-This website is a platform that provides online IT courses to individuals looking to upskill and grow in the tech industry.
-The website includes a brief description of it objects, founding team members, information on courses offered and a communication channel for prospective students.
+A multi-page website built with HTML, CSS, Bootstrap, JavaScript, and Flask, created to help aspiring tech professionals access beginner-friendly online courses. 🚀
 
-Features and functionalities:
-Homepage - Provides a brief overview of TechWise and its course offerings.
-About Us - Provides an introduction to the team that make up TechWise and its vision and mission.
-Courses page - Highlights the courses offered: Python, Java, Web development and SQL.
-Contact Us page- Allows users to complete an inquiry form to contact TechWise directly.
+📚 About the Project
 
-Technologies used:
-- HTML
-- CSS
-- Bootstrap CSS
--Javascript
--Flask
+TechWise is an online learning platform designed for individuals who want to upskill in the tech industry. It features a clean, user-friendly layout where prospective students can explore courses, learn more about the team, and get in touch easily.
+
+🧭 Pages & Features
+🏠 Home — Overview of TechWise and its course offerings
+👥 About Us — Learn about the founding team, mission, and vision
+📘 Courses — Course details on Python, Java, Web Development, and SQL
+✉️ Contact — Simple inquiry form for prospective students
+🛠️ Technologies Used
+HTML
+CSS
+Bootstrap
+JavaScript
+Flask (Python)
+🌱 What I Learned
+
+(Add your personal reflection here — for example:)
+
+This project helped me understand Flask routing, Jinja templates, and how to build responsive pages using Bootstrap. I also gained experience integrating front-end and back-end components across a multi-page site
